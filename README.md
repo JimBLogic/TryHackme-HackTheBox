@@ -10,7 +10,6 @@ Badges & Certs from my favourite Ethical Hacking webs to practice.
 ![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm5.png)
 ![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm6.png)
 
-![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/tryhackme%20badges.png)
 
 ## Hack The box badges up to date:
 ### Academician
