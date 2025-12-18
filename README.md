@@ -3,7 +3,7 @@ Badges & Certs from my favourite Ethical Hacking webs to practice.
 
 ## TryHackMe Badges up to date:
 
-![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm1.png)
+![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/top3.png)
 ![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm2.png)
 ![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm3.png)
 ![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm4.png)
