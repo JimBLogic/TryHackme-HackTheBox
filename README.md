@@ -1,20 +1,26 @@
-# TryHackme-HackTheBox
-Badges & Certs from my favourite Ethical Hacking webs to practice.
+# TryHackMe and Hack The Box
 
-## TryHackMe Badges up to date:
+A record of badges and certificates earned through hands-on cybersecurity training on TryHackMe and Hack The Box Academy.
 
-![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/top3.png)
+This repository contains achievement evidence rather than room or challenge solutions. See my public [TryHackMe profile](https://tryhackme.com/p/JimBLogic) for current progress.
 
-![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm4.png)
-![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm5.png)
-![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm6.png)
+## TryHackMe badges
 
-![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm2.png)
-![TryHackMe Badges](https://github.com/JimBLogic/TryHackme-HackTheBox/blob/main/Certs/thm3.png)
+![TryHackMe badge collection](./Certs/top3.png)
 
-## Hack The box badges up to date:
+![TryHackMe badge collection](./Certs/thm4.png)
+![TryHackMe badge collection](./Certs/thm5.png)
+![TryHackMe badge collection](./Certs/thm6.png)
+
+![TryHackMe badge collection](./Certs/thm2.png)
+![TryHackMe badge collection](./Certs/thm3.png)
+
+## Hack The Box Academy badges
+
 ### Academician
-[Academician](https://academy.hackthebox.com/achievement/badge/0c6246a5-e11c-11ee-b18d-bea50ffe6cb4)
 
-### Our favorite seabird
-[Our favorite seabird](https://academy.hackthebox.com/achievement/badge/2f425309-f326-11ee-b18d-bea50ffe6cb4)
+[View the Academician achievement](https://academy.hackthebox.com/achievement/badge/0c6246a5-e11c-11ee-b18d-bea50ffe6cb4)
+
+### Our Favorite Seabird
+
+[View the Our Favorite Seabird achievement](https://academy.hackthebox.com/achievement/badge/2f425309-f326-11ee-b18d-bea50ffe6cb4)
