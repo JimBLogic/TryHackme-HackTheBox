@@ -23,3 +23,7 @@ This repository contains achievement evidence rather than room or challenge solu
 ### Our Favorite Seabird
 
 [View the Our Favorite Seabird achievement](https://academy.hackthebox.com/achievement/badge/2f425309-f326-11ee-b18d-bea50ffe6cb4)
+
+## Related Portfolio
+
+[View the full hands-on learning journey](https://jimblogic.github.io/#journey).
