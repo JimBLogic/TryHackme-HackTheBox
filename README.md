@@ -8,7 +8,6 @@ This repository contains achievement evidence rather than room or challenge solu
 
 ![TryHackMe badge collection](./Certs/top3.png)
 
-![TryHackMe badge collection](./Certs/thm4.png)
 ![TryHackMe badge collection](./Certs/thm5.png)
 ![TryHackMe badge collection](./Certs/thm6.png)
 
