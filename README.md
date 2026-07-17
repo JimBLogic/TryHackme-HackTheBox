@@ -6,13 +6,13 @@ This repository contains achievement evidence rather than room or challenge solu
 
 ## TryHackMe badges
 
-![TryHackMe badge collection](./Certs/top3.png)
+![TryHackMe badge collection overview](./Certs/top3.png)
 
-![TryHackMe badge collection](./Certs/thm5.png)
-![TryHackMe badge collection](./Certs/thm6.png)
+![TryHackMe badge collection, evidence set 1](./Certs/thm5.png)
+![TryHackMe badge collection, evidence set 2](./Certs/thm6.png)
 
-![TryHackMe badge collection](./Certs/thm2.png)
-![TryHackMe badge collection](./Certs/thm3.png)
+![TryHackMe badge collection, evidence set 3](./Certs/thm2.png)
+![TryHackMe badge collection, evidence set 4](./Certs/thm3.png)
 
 ## Hack The Box Academy badges
 
